@@ -487,9 +487,6 @@
         <mxCell id="MFzL2CVG2McLQHCeXVuu-33" value="Запись&lt;div&gt;изменений&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1190" y="670" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bDa9cdy11Vmr1EAElaM7-1" value="&lt;a href=&quot;https://systems.education/data-flow-diagrams&quot;&gt;Использование DFD: как описать движение данных в бизнес-процессах&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="755" y="178" width="430" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
