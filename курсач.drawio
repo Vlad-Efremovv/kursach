@@ -1151,16 +1151,16 @@
           <mxGeometry x="450" y="2490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uxjgKXh04FLII-IEkSz_-63" value="Самоаудит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="2500" width="90" height="30" as="geometry" />
+          <mxGeometry x="590" y="2490" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uxjgKXh04FLII-IEkSz_-64" value="Аудит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="2498" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="2490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uxjgKXh04FLII-IEkSz_-65" value="Аудит" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="2498" width="60" height="30" as="geometry" />
+          <mxGeometry x="810" y="2490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uxjgKXh04FLII-IEkSz_-66" value="Администрирование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="2498" width="140" height="30" as="geometry" />
+          <mxGeometry x="900" y="2490" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
