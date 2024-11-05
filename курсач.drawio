@@ -897,6 +897,9 @@
         <mxCell id="71pr_LP-kv-ijqEAcqEi-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71pr_LP-kv-ijqEAcqEi-35" target="71pr_LP-kv-ijqEAcqEi-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="71pr_LP-kv-ijqEAcqEi-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71pr_LP-kv-ijqEAcqEi-35" target="71pr_LP-kv-ijqEAcqEi-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="71pr_LP-kv-ijqEAcqEi-35" value="ПИН-код&lt;div&gt;&amp;nbsp;совпадает с сохраненным?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="1670" width="140" height="100" as="geometry" />
         </mxCell>
@@ -927,6 +930,15 @@
         </mxCell>
         <mxCell id="71pr_LP-kv-ijqEAcqEi-49" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Авторизация&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="615" y="978" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="71pr_LP-kv-ijqEAcqEi-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="71pr_LP-kv-ijqEAcqEi-50" target="71pr_LP-kv-ijqEAcqEi-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71pr_LP-kv-ijqEAcqEi-50" value="Получение данных пользователя" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71pr_LP-kv-ijqEAcqEi-52" value="Формирование главного меню в зависимости от роли" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
