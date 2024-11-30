@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.2" pages="23">
   <diagram name="USE_CASE" id="II81wLohKeNg8tUrAO5z">
     <mxGraphModel dx="8344" dy="3396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -4957,6 +4957,82 @@
         </mxCell>
         <mxCell id="MfjajzML6JmNYbrC7h0Q-38" value="10" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="MfjajzML6JmNYbrC7h0Q-1">
           <mxGeometry x="-680" y="3020" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="11 - Тестирование" id="ttPBxCQ2wOtRGsaIJb60">
+    <mxGraphModel dx="186" dy="-1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LNrppaPjyectFXW1CXSn-0" />
+        <mxCell id="LNrppaPjyectFXW1CXSn-1" parent="LNrppaPjyectFXW1CXSn-0" />
+        <mxCell id="LNrppaPjyectFXW1CXSn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-3" target="LNrppaPjyectFXW1CXSn-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1570" y="2851" />
+              <mxPoint x="1570" y="2851" />
+            </Array>
+            <mxPoint x="1570" y="2881" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-3" value="11" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1550" y="2731" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-5" target="LNrppaPjyectFXW1CXSn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-5" value="Загрузка теста" style="whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1510" y="2811" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-7" target="LNrppaPjyectFXW1CXSn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-7" value="Нажата кнопка закончить" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1510" y="3041" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-8" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1580" y="3111" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-9" value="Заполнение оценок и комментариев&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1485" y="2931" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-9" target="LNrppaPjyectFXW1CXSn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-12" target="LNrppaPjyectFXW1CXSn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-12" value="Сохранение результата" style="whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1510" y="3271" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-13" value="4" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1550" y="3381" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-16" target="LNrppaPjyectFXW1CXSn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LNrppaPjyectFXW1CXSn-1" source="LNrppaPjyectFXW1CXSn-16" target="LNrppaPjyectFXW1CXSn-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="3191" />
+              <mxPoint x="1430" y="2961" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-16" value="Все поля&amp;nbsp;&lt;div&gt;заполнены&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1510" y="3151" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-17" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1570" y="3221" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-18" value="Нет" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1470" y="3161" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-19" value="Тестирование" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1525" y="2706" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LNrppaPjyectFXW1CXSn-20" value="Меню 5С&lt;div&gt;Производство&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LNrppaPjyectFXW1CXSn-1">
+          <mxGeometry x="1520" y="3421" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
